@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My Blog Post"
+date: 2025-03-21
+categories: [tag1, tag2]
+---
+
 # 코딩 음악 은유
 
 ## 대학
